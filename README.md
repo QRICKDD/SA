@@ -31,4 +31,4 @@ python run RawNet56/attack_SA_1D_3.py
 # The results path is configured in Config/attackconfig.py and Config/globalconfig.py
 ```
 
-See `SA/Attacks` and `SA\Config` for details. 
+See `SA/Attacks` and `SA/Config` for details. 
