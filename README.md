@@ -1,7 +1,7 @@
 # Sliding Attack
 Code for Clipping and Self-Splicing Resilient Sliding Attack for Synthetic Speech Detection by Jiacheng Deng, Li Dong.
 
-![avatar](https://raw.githubusercontent.com/QRICKDD/LLA/master/picture/temp_picture.png)
+![avatar](https://github.com/QRICKDD/SA/blob/main/pic/SA.png)
 
 Comparison of different attacking methods. Top row: from the left to right are the source audio, target audio and their residuals.
 Second row to the last row: the results for ours, HSJA, QEBA-F, and SIGN-OPT; from the left to the right are results for 5K, 15K and 25K queries. For comparison, the adversarial perturbation (orange) is plotted, superimposing on the residual(blue). Better view in color version.
